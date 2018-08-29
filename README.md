@@ -1,2 +1,2 @@
-# ds-resources
-My Personal Collection of Data Science Resources
+# Data Science Resources
+My Personal Collection of Data Science Resources and related areas
