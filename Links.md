@@ -11,6 +11,10 @@ I will update this with resources as I go with no particular order but the readi
 
 ### Python
 
+## Feature Selection
+[feature-selector](https://github.com/WillKoehrsen/feature-selector) \
+[A Feature Selection Tool for Machine Learning in Python](https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0)
+
 #### Parallelized
 [Dask](http://dask.pydata.org/) \
 [How to Run Parallel Data Analysis in Python using Dask Dataframes](https://towardsdatascience.com/trying-out-dask-dataframes-in-python-for-fast-data-analysis-in-parallel-aa960c18a915)
@@ -35,6 +39,13 @@ I will update this with resources as I go with no particular order but the readi
 [Rapids Repo](https://github.com/RAPIDSai) \
 [RAPIDS Accelerates Data Science End-to-End](https://devblogs.nvidia.com/gpu-accelerated-analytics-rapids/) \
 [Nvidia launches Rapids to help bring GPU acceleration to data analytics Fred](https://techcrunch.com/2018/10/10/nvidia-launches-rapids-to-help-bring-gpu-acceleration-to-data-analytics/?guccounter=1)
+
+### Production
+[API First for Data Science](http://engineering.pivotal.io/post/api-first-for-data-science/)
+
+### Data sets
+[Microsoft Research Open Data](https://msropendata.com/) \
+[Announcing Microsoft Research Open Data - Datasets by Microsoft Research now available in the cloud](https://www.microsoft.com/en-us/research/blog/announcing-microsoft-research-open-data-datasets-by-microsoft-research-now-available-in-the-cloud/)
 
 ### Serving
 [Training and Serving ML models with tf.keras](https://medium.com/tensorflow/training-and-serving-ml-models-with-tf-keras-fd975cc0fa27) \
@@ -68,9 +79,13 @@ I will update this with resources as I go with no particular order but the readi
 
 ## A/B Testing
 [5 Things to Know About A/B Testing](https://www.kdnuggets.com/2018/09/5-things-know-about-ab-testing.html)
+[Progression by Regression: How to increase your A/B Test Velocity](https://www.slideshare.net/stitchfix_algo/progression-by-regression-how-to-increase-your-ab-test-velocity)
 
 ## Explainable AI / Interpretable ML
 [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable.](https://christophm.github.io/interpretable-ml-book/)
+[explained.ai](http://explained.ai/)
 
 ## Description of The Work as a Data Scientist
 [This is what I really do as a Data Scientist](https://towardsdatascience.com/this-is-what-i-really-do-as-a-data-scientist-d637ed747ef9)
+
+## Youtube Channels
