@@ -6,18 +6,45 @@ I will update this with resources as I go with no particular order but the readi
 ## Wrangling
 
 ### R
-
-
+[dplyr](https://dplyr.tidyverse.org/) \
+[tidyr](https://tidyr.tidyverse.org/) \
+[tibble](https://tibble.tidyverse.org/)
 
 ### Python
-
-## Feature Selection
-[feature-selector](https://github.com/WillKoehrsen/feature-selector) \
-[A Feature Selection Tool for Machine Learning in Python](https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0)
+[pandas]() \
+[numpy]()
 
 #### Parallelized
 [Dask](http://dask.pydata.org/) \
 [How to Run Parallel Data Analysis in Python using Dask Dataframes](https://towardsdatascience.com/trying-out-dask-dataframes-in-python-for-fast-data-analysis-in-parallel-aa960c18a915)
+
+## Viz
+
+### R
+[ggplot2](https://ggplot2.tidyverse.org/) \
+[ggplot2 extensions](https://www.ggplot2-exts.org/) \
+[https://blog.modeanalytics.com/r-ggplot-extension-packages/](https://blog.modeanalytics.com/r-ggplot-extension-packages/) \
+[highcharter](http://jkunst.com/highcharter/index.html) \
+[htmlwidgets for R](http://www.htmlwidgets.org) \
+[r2d3: R Interface to D3 Visualizations](https://rstudio.github.io/r2d3/)
+
+### Python
+[matplotlib](https://matplotlib.org/) \
+[seaborn](https://seaborn.pydata.org/) \
+[The Python Graph Gallery](https://python-graph-gallery.com/)
+
+
+## Feature Selection
+
+### R
+
+### Python
+[feature-selector](https://github.com/WillKoehrsen/feature-selector) \
+[A Feature Selection Tool for Machine Learning in Python](https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0)
+
+## Misc Utils
+### Python
+[https://tqdm.github.io/](https://github.com/tqdm/tqdm)
 
 ## Machine Learning
 [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) \
@@ -60,18 +87,26 @@ I will update this with resources as I go with no particular order but the readi
 ### Deep Learning
 [Why Deep Learning over Traditional Machine Learning?](https://towardsdatascience.com/why-deep-learning-is-needed-over-traditional-machine-learning-1b6a99177063)
 
+### CNN
+[DeepChef: Classification of Cooking Dishes with Machine Learning](https://github.com/Murgio/Food-Recipe-CNN)
+
 #### NLP
 [Tracking the Progress in Natural Language Processing Go directly to the document tracking the progress in NLP](http://ruder.io/tracking-progress-nlp/)
 
 #### Reinforcement Learning
 [trfl ("Truffle") by Deepmind](https://github.com/deepmind/trfl) \
-[Schooling Flappy Bird: A Reinforcement Learning Tutorial ](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial)
+[Schooling Flappy Bird: A Reinforcement Learning Tutorial ](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial) \
+[Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287) \
+[Deep Reinforcement Learning Based Trading Application at JP Morgan Chase](https://medium.com/@ranko.mosic/reinforcement-learning-based-trading-application-at-jp-morgan-chase-f829b8ec54f2)
 
 ## Jupyter Notebook
 [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) \
 [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233) \
 [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055) \
-[Jupyter Notebook Enhancements, Tips And Tricks](https://forums.fast.ai/t/jupyter-notebook-enhancements-tips-and-tricks/17064/7)
+[Jupyter Notebook Enhancements, Tips And Tricks](https://forums.fast.ai/t/jupyter-notebook-enhancements-tips-and-tricks/17064/7) \
+[fastprogress: Simple and flexible progress bar for Jupyter Notebook and console](https://github.com/fastai/fastprogress) \
+[The Visual Python Debugger for Jupyter Notebooks You've Always Wanted: Introducing PixieDebugger](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62) \
+[Introducing Jupytext](https://towardsdatascience.com/introducing-jupytext-9234fdff6c57)
 
 ## Data Products & Projects
 [What is Minimum Viable (Data) Product?](https://medium.com/idealo-tech-blog/what-is-minimum-viable-data-product-49269e338d85) \
@@ -82,10 +117,14 @@ I will update this with resources as I go with no particular order but the readi
 [Progression by Regression: How to increase your A/B Test Velocity](https://www.slideshare.net/stitchfix_algo/progression-by-regression-how-to-increase-your-ab-test-velocity)
 
 ## Explainable AI / Interpretable ML
-[Interpretable Machine Learning: A Guide for Making Black Box Models Explainable.](https://christophm.github.io/interpretable-ml-book/)
-[explained.ai](http://explained.ai/)
+[Interpretable Machine Learning: A Guide for Making Black Box Models Explainable.](https://christophm.github.io/interpretable-ml-book/) \
+[explained.ai](http://explained.ai/) \
+[Explainable Artificial Intelligence (XAI)](https://www.darpa.mil/program/explainable-artificial-intelligence)
 
 ## Description of The Work as a Data Scientist
 [This is what I really do as a Data Scientist](https://towardsdatascience.com/this-is-what-i-really-do-as-a-data-scientist-d637ed747ef9)
 
 ## Youtube Channels
+
+## Lib Comparisons
+[Comparison of top data science libraries for Python, R and Scala ](https://www.linkedin.com/pulse/comparison-top-data-science-libraries-python-r-scala-igor-bobriakov/)
