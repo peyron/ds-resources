@@ -33,6 +33,8 @@ I will update this with resources as I go with no particular order but the readi
 [seaborn](https://seaborn.pydata.org/) \
 [The Python Graph Gallery](https://python-graph-gallery.com/)
 
+### Other
+[Uber Databook](https://eng.uber.com/databook/)
 
 ## Feature Selection
 
@@ -57,15 +59,35 @@ I will update this with resources as I go with no particular order but the readi
 [Tensorflow in Anaconda](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/)
 
 ### Learning
-[fast.ai](http://www.fast.ai/)
+[fast.ai](http://www.fast.ai/) \
+[Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/) \
+[How to choose a machine learning model 1: Choosing between candidates](https://brohrer.github.io/how_modeling_works_1.html)
 
-### Frameworks
+### ML Applications
+[Facebook ML Applications](https://code.fb.com/ml-applications/)
 
-#### Rapids
+### ML Frameworks
+
+##### Rapids
 [Rapids Documentation](http://rapids.ai/) \
 [Rapids Repo](https://github.com/RAPIDSai) \
 [RAPIDS Accelerates Data Science End-to-End](https://devblogs.nvidia.com/gpu-accelerated-analytics-rapids/) \
 [Nvidia launches Rapids to help bring GPU acceleration to data analytics Fred](https://techcrunch.com/2018/10/10/nvidia-launches-rapids-to-help-bring-gpu-acceleration-to-data-analytics/?guccounter=1)
+
+#### RL Frameworks
+
+##### Open AI Gym
+[Open AI Gym](https://gym.openai.com/)
+
+##### Horizon (FB)
+[Horizon Release Note](https://code.fb.com/ml-applications/horizon/) \
+[Horizon: Facebook's Open Source Applied Reinforcement Learning Platform(Paper)](https://arxiv.org/abs/1811.00260)
+
+#### NLP Frameworks
+
+##### BERT Bidirectional Encoder Representations from Transformers (Google AI)
+[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Paper)](https://arxiv.org/abs/1810.04805) \
+[TensorFlow code and pre-trained models for BERT (Github)](https://github.com/google-research/bert)
 
 ### Production
 [API First for Data Science](http://engineering.pivotal.io/post/api-first-for-data-science/)
@@ -83,6 +105,12 @@ I will update this with resources as I go with no particular order but the readi
 [AutoKeras: The Killer of Google's AutoML](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)\
 [h2o AutoML](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) \
 [Everything you need to know about AutoML and Neural Architecture Search](https://towardsdatascience.com/everything-you-need-to-know-about-automl-and-neural-architecture-search-8db1863682bf)
+
+#### AdaNet (Google AI)
+[Paper](https://arxiv.org/abs/1607.01097) \
+[Article](https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html?m=1) \
+[Github](https://github.com/tensorflow/adanet) \
+[Tutorials](https://github.com/tensorflow/adanet/tree/v0.1.0/adanet/examples/tutorials)
 
 ### Deep Learning
 [Why Deep Learning over Traditional Machine Learning?](https://towardsdatascience.com/why-deep-learning-is-needed-over-traditional-machine-learning-1b6a99177063)
