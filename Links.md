@@ -74,15 +74,6 @@ I will update this with resources as I go with no particular order but the readi
 [RAPIDS Accelerates Data Science End-to-End](https://devblogs.nvidia.com/gpu-accelerated-analytics-rapids/) \
 [Nvidia launches Rapids to help bring GPU acceleration to data analytics Fred](https://techcrunch.com/2018/10/10/nvidia-launches-rapids-to-help-bring-gpu-acceleration-to-data-analytics/?guccounter=1)
 
-#### RL Frameworks
-
-##### Open AI Gym
-[Open AI Gym](https://gym.openai.com/)
-
-##### Horizon (FB)
-[Horizon Release Note](https://code.fb.com/ml-applications/horizon/) \
-[Horizon: Facebook's Open Source Applied Reinforcement Learning Platform(Paper)](https://arxiv.org/abs/1811.00260)
-
 #### NLP Frameworks
 
 ##### BERT Bidirectional Encoder Representations from Transformers (Google AI)
@@ -120,12 +111,6 @@ I will update this with resources as I go with no particular order but the readi
 
 #### NLP
 [Tracking the Progress in Natural Language Processing Go directly to the document tracking the progress in NLP](http://ruder.io/tracking-progress-nlp/)
-
-#### Reinforcement Learning
-[trfl ("Truffle") by Deepmind](https://github.com/deepmind/trfl) \
-[Schooling Flappy Bird: A Reinforcement Learning Tutorial ](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial) \
-[Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287) \
-[Deep Reinforcement Learning Based Trading Application at JP Morgan Chase](https://medium.com/@ranko.mosic/reinforcement-learning-based-trading-application-at-jp-morgan-chase-f829b8ec54f2)
 
 ## Jupyter Notebook
 [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) \
