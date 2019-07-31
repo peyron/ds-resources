@@ -49,7 +49,7 @@ I will update this with resources as I go with no particular order but the readi
 
 ## Misc Utils
 ### Python
-[https://tqdm.github.io/](https://github.com/tqdm/tqdm)
+* [https://tqdm.github.io/](https://github.com/tqdm/tqdm)
 
 ## Machine Learning
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) 
@@ -67,15 +67,18 @@ I will update this with resources as I go with no particular order but the readi
 * [How to choose a machine learning model 1: Choosing between candidates](https://brohrer.github.io/how_modeling_works_1.html)
 
 ### ML Applications
-[Facebook ML Applications](https://code.fb.com/ml-applications/)
+* [Facebook ML Applications](https://code.fb.com/ml-applications/)
 
 ### ML Frameworks
 
 ##### Rapids
-[Rapids Documentation](http://rapids.ai/) 
-[Rapids Repo](https://github.com/RAPIDSai) 
-[RAPIDS Accelerates Data Science End-to-End](https://devblogs.nvidia.com/gpu-accelerated-analytics-rapids/) 
-[Nvidia launches Rapids to help bring GPU acceleration to data analytics Fred](https://techcrunch.com/2018/10/10/nvidia-launches-rapids-to-help-bring-gpu-acceleration-to-data-analytics/?guccounter=1)
+* [Rapids Documentation](http://rapids.ai/) 
+* [Rapids Repo](https://github.com/RAPIDSai) 
+* [RAPIDS Accelerates Data Science End-to-End](https://devblogs.nvidia.com/gpu-accelerated-analytics-rapids/) 
+* [Nvidia launches Rapids to help bring GPU acceleration to data analytics Fred](https://techcrunch.com/2018/10/10/nvidia-launches-rapids-to-help-bring-gpu-acceleration-to-data-analytics/?guccounter=1)
+
+##### Ludvig
+* [No Coding Required: Training Models with Ludwig, Uber’s Open Source Deep Learning Toolbox](https://eng.uber.com/ludwig-deep-learning-toolbox/)
 
 #### NLP Frameworks
 
@@ -84,11 +87,15 @@ I will update this with resources as I go with no particular order but the readi
 * [TensorFlow code and pre-trained models for BERT (Github)](https://github.com/google-research/bert)
 
 ### Production
-[API First for Data Science](http://engineering.pivotal.io/post/api-first-for-data-science/)
+* [API First for Data Science](http://engineering.pivotal.io/post/api-first-for-data-science/)
 
 ### Data sets
 * [Microsoft Research Open Data](https://msropendata.com/) 
 * [Announcing Microsoft Research Open Data - Datasets by Microsoft Research now available in the cloud](https://www.microsoft.com/en-us/research/blog/announcing-microsoft-research-open-data-datasets-by-microsoft-research-now-available-in-the-cloud/)
+* [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+
+* [Lyft Autonomous Driving Dataset From Its Level 5 Self-Driving Fleet](https://level5.lyft.com/dataset/)
+
 
 ### Serving
 * [Training and Serving ML models with tf.keras](https://medium.com/tensorflow/training-and-serving-ml-models-with-tf-keras-fd975cc0fa27) 
